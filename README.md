@@ -6,11 +6,11 @@ This project focuses on building a machine learning model to predict the sales o
 
 ```
 Big_Mart_Sales_Predictions/
-│
-├── Big_Mart_Sales_Predictions.ipynb   # Main Jupyter Notebook
-├── Train.csv                          # Training dataset
-├── Test.csv                           # Test dataset
-├── README.md                          # Project overview and setup
+
+ ── Big_Mart_Sales_Predictions.ipynb   # Main Jupyter Notebook
+ ── Train.csv                          # Training dataset
+ ── Test.csv                           # Test dataset
+ ── README.md                          # Project overview and setup
 ```
 
 ## Objective
